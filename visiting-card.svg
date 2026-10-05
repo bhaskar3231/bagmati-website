@@ -1,1 +1,61 @@
-﻿@{data=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDUwIDYwMCIgd2lkdGg9IjEwNTAiIGhlaWdodD0iNjAwIiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0iY2FyZFRpdGxlIj4NCiAgPHRpdGxlIGlkPSJjYXJkVGl0bGUiPkJhZ21hdGkgdmlzaXRpbmcgY2FyZDwvdGl0bGU+DQogIDxkZWZzPg0KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibmF2eSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMTAxZjM4Ii8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyNDQ5NzYiLz4NCiAgICA8L2xpbmVhckdyYWRpZW50Pg0KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYWNjZW50IiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZiMzRhIi8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmQxN2YiLz4NCiAgICA8L2xpbmVhckdyYWRpZW50Pg0KICA8L2RlZnM+DQoNCiAgPHJlY3Qgd2lkdGg9IjEwNTAiIGhlaWdodD0iNjAwIiByeD0iMjYiIGZpbGw9IiNmNmYzZWQiLz4NCiAgPHJlY3Qgd2lkdGg9IjM5MiIgaGVpZ2h0PSI2MDAiIHJ4PSIyNiIgZmlsbD0idXJsKCNuYXZ5KSIvPg0KICA8cmVjdCB4PSIzNjYiIHdpZHRoPSIyNiIgaGVpZ2h0PSI2MDAiIGZpbGw9InVybCgjYWNjZW50KSIvPg0KICA8Y2lyY2xlIGN4PSIzNTAiIGN5PSI2OCIgcj0iMTcwIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjAzNSIvPg0KICA8Y2lyY2xlIGN4PSI2NSIgY3k9IjU0NSIgcj0iMTMwIiBmaWxsPSIjZmZiMzRhIiBvcGFjaXR5PSIwLjA3Ii8+DQoNCiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTgsNjYpIj4NCiAgICA8cmVjdCB3aWR0aD0iMTEyIiBoZWlnaHQ9IjExMiIgcng9IjI1IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjEiLz4NCiAgICA8cGF0aCBkPSJNMjMgMThjMjUgOSAzOSAyMCAzOSAzNCAwIDE1LTE3IDIyLTMyIDM2IiBmaWxsPSJub25lIiBzdHJva2U9IiNiOGRjZmYiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+DQogICAgPHBhdGggZD0iTTUwIDE4YzIyIDExIDM1IDIxIDM1IDM0IDAgMTAtOCAxNi0xOSAyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iLjMyIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPg0KICAgIDxyZWN0IHg9IjY1IiB5PSIxOSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0iI2ZmYjM0YSIvPg0KICAgIDxyZWN0IHg9Ijc4IiB5PSIzNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0iI2ZmZDE3ZiIvPg0KICAgIDxyZWN0IHg9IjY2IiB5PSI1MiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0iI2ZmYjM0YSIvPg0KICAgIDxjaXJjbGUgY3g9IjI5IiBjeT0iODciIHI9IjMiIGZpbGw9IiNmZmIzNGEiLz4NCiAgPC9nPg0KDQogIDx0ZXh0IHg9IjU4IiB5PSIyMzgiIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQ4IiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjZmZmZmZmIiBsZXR0ZXItc3BhY2luZz0iLTEiPkJhZ21hdGk8L3RleHQ+DQogIDx0ZXh0IHg9IjYwIiB5PSIyNzQiIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNzAwIiBsZXR0ZXItc3BhY2luZz0iMiIgZmlsbD0iI2ZmYjM0YSI+QjJCIFNVUFBMWSBQQVJUTkVSPC90ZXh0Pg0KICA8bGluZSB4MT0iNjAiIHkxPSIzMjAiIHgyPSIzMTUiIHkyPSIzMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMiIvPg0KICA8dGV4dCB4PSI2MCIgeT0iMzc2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI2Q4ZTJlZiI+T25lIGRlcGVuZGFibGUgc291cmNlPC90ZXh0Pg0KICA8dGV4dCB4PSI2MCIgeT0iNDA1IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI2Q4ZTJlZiI+Zm9yIGV2ZXJ5IGJ1c2luZXNzIGVzc2VudGlhbC48L3RleHQ+DQogIDx0ZXh0IHg9IjYwIiB5PSI1MzAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjYWViZWQxIj5QdW5lIMK3IE1haGFyYXNodHJhPC90ZXh0Pg0KICA8dGV4dCB4PSI2MCIgeT0iNTU4IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2FlYmVkMSI+YmFnbWF0aS5jby5pbjwvdGV4dD4NCg0KICA8dGV4dCB4PSI0NTYiIHk9Ijg2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9IjcwMCIgbGV0dGVyLXNwYWNpbmc9IjIiIGZpbGw9IiNkNDg3MGEiPkxFVCdTIENPTk5FQ1Q8L3RleHQ+DQogIDx0ZXh0IHg9IjQ1NiIgeT0iMTUwIiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIzNyIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iIzEwMTgyOCI+U2F0eWVuZHJhPC90ZXh0Pg0KICA8dGV4dCB4PSI0NTYiIHk9IjE5NCIgZm9udC1mYW1pbHk9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMzciIGZvbnQtd2VpZ2h0PSI4MDAiIGZpbGw9IiMxMDE4MjgiPkNoYXVkaGFyeTwvdGV4dD4NCiAgPHRleHQgeD0iNDU4IiB5PSIyMjYiIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmaWxsPSIjNjY3MDg1Ij5PZmZpY2UgwrcgSW5kdXN0cmlhbCDCtyBJVCDCtyBFZHVjYXRpb248L3RleHQ+DQogIDxsaW5lIHgxPSI0NTYiIHkxPSIyNzAiIHgyPSI5NzAiIHkyPSIyNzAiIHN0cm9rZT0iI2Q5ZDRjYiIvPg0KDQogIDxnIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIj4NCiAgICA8Y2lyY2xlIGN4PSI0NzQiIGN5PSIzMjIiIHI9IjE2IiBmaWxsPSIjZGNlYWZmIi8+DQogICAgPHRleHQgeD0iNDY4IiB5PSIzMjgiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMxNTJkNGYiPuKYjjwvdGV4dD4NCiAgICA8dGV4dCB4PSI1MTAiIHk9IjMxNyIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjcwMCIgbGV0dGVyLXNwYWNpbmc9IjEiIGZpbGw9IiM2NjcwODUiPkNBTEwgLyBXSEFUU0FQUDwvdGV4dD4NCiAgICA8dGV4dCB4PSI1MTAiIHk9IjM0MCIgZm9udC1zaXplPSIxNyIgZmlsbD0iIzEwMTgyOCI+KzkxIDk3NjM3IDE3NjUzICDCtyAgKzkxIDk5NzM4IDE2ODI1PC90ZXh0Pg0KDQogICAgPGNpcmNsZSBjeD0iNDc0IiBjeT0iMzk5IiByPSIxNiIgZmlsbD0iI2ZmZTViYyIvPg0KICAgIDx0ZXh0IHg9IjQ2NyIgeT0iNDA1IiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjOWE1YjAwIj7inIk8L3RleHQ+DQogICAgPHRleHQgeD0iNTEwIiB5PSIzOTQiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGxldHRlci1zcGFjaW5nPSIxIiBmaWxsPSIjNjY3MDg1Ij5FTUFJTDwvdGV4dD4NCiAgICA8dGV4dCB4PSI1MTAiIHk9IjQxNyIgZm9udC1zaXplPSIxNiIgZmlsbD0iIzEwMTgyOCI+Y29udGFjdC5iYWdtYXRpQGdtYWlsLmNvbTwvdGV4dD4NCiAgICA8dGV4dCB4PSI1MTAiIHk9IjQ0MSIgZm9udC1zaXplPSIxNiIgZmlsbD0iIzEwMTgyOCI+c2F0eWVuZHJhQGJhZ21hdGkuY28uaW48L3RleHQ+DQoNCiAgICA8Y2lyY2xlIGN4PSI0NzQiIGN5PSI1MDAiIHI9IjE2IiBmaWxsPSIjZTZkZWZlIi8+DQogICAgPHRleHQgeD0iNDY4IiB5PSI1MDYiIGZvbnQtc2l6ZT0iMTciIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM1ZTQ4YTYiPuKMljwvdGV4dD4NCiAgICA8dGV4dCB4PSI1MTAiIHk9IjQ5NSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjcwMCIgbGV0dGVyLXNwYWNpbmc9IjEiIGZpbGw9IiM2NjcwODUiPkxPQ0FUSU9OPC90ZXh0Pg0KICAgIDx0ZXh0IHg9IjUxMCIgeT0iNTE4IiBmb250LXNpemU9IjE3IiBmaWxsPSIjMTAxODI4Ij5QdW5lLCBNYWhhcmFzaHRyYTwvdGV4dD4NCiAgPC9nPg0KPC9zdmc+DQo=}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 600" width="1050" height="600" role="img" aria-labelledby="cardTitle">
+  <title id="cardTitle">Bagmati visiting card</title>
+  <defs>
+    <linearGradient id="navy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101f38"/>
+      <stop offset="100%" stop-color="#244976"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffb34a"/>
+      <stop offset="100%" stop-color="#ffd17f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1050" height="600" rx="26" fill="#f6f3ed"/>
+  <rect width="392" height="600" rx="26" fill="url(#navy)"/>
+  <rect x="366" width="26" height="600" fill="url(#accent)"/>
+  <circle cx="350" cy="68" r="170" fill="#ffffff" opacity="0.035"/>
+  <circle cx="65" cy="545" r="130" fill="#ffb34a" opacity="0.07"/>
+
+  <g transform="translate(58,66)">
+    <rect width="112" height="112" rx="25" fill="#ffffff" opacity="0.1"/>
+    <path d="M23 18c25 9 39 20 39 34 0 15-17 22-32 36" fill="none" stroke="#b8dcff" stroke-width="9" stroke-linecap="round"/>
+    <path d="M50 18c22 11 35 21 35 34 0 10-8 16-19 22" fill="none" stroke="#ffffff" stroke-opacity=".32" stroke-width="4" stroke-linecap="round"/>
+    <rect x="65" y="19" width="14" height="14" rx="3" fill="#ffb34a"/>
+    <rect x="78" y="35" width="14" height="14" rx="3" fill="#ffd17f"/>
+    <rect x="66" y="52" width="14" height="14" rx="3" fill="#ffb34a"/>
+    <circle cx="29" cy="87" r="3" fill="#ffb34a"/>
+  </g>
+
+  <text x="58" y="238" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#ffffff" letter-spacing="-1">Bagmati</text>
+  <text x="60" y="274" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#ffb34a">B2B SUPPLY PARTNER</text>
+  <line x1="60" y1="320" x2="315" y2="320" stroke="#ffffff" stroke-opacity="0.2"/>
+  <text x="60" y="376" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8e2ef">One dependable source</text>
+  <text x="60" y="405" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8e2ef">for every business essential.</text>
+  <text x="60" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#aebed1">Pune · Maharashtra</text>
+  <text x="60" y="558" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#aebed1">bagmati.co.in</text>
+
+  <text x="456" y="86" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#d4870a">LET'S CONNECT</text>
+  <text x="456" y="150" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="800" fill="#101828">Satyendra</text>
+  <text x="456" y="194" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="800" fill="#101828">Chaudhary</text>
+  <text x="458" y="226" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#667085">Office · Industrial · IT · Education</text>
+  <line x1="456" y1="270" x2="970" y2="270" stroke="#d9d4cb"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="474" cy="322" r="16" fill="#dceaff"/>
+    <text x="468" y="328" font-size="16" font-weight="700" fill="#152d4f">☎</text>
+    <text x="510" y="317" font-size="12" font-weight="700" letter-spacing="1" fill="#667085">CALL / WHATSAPP</text>
+    <text x="510" y="340" font-size="17" fill="#101828">+91 97637 17653  ·  +91 99738 16825</text>
+
+    <circle cx="474" cy="399" r="16" fill="#ffe5bc"/>
+    <text x="467" y="405" font-size="16" font-weight="700" fill="#9a5b00">✉</text>
+    <text x="510" y="394" font-size="12" font-weight="700" letter-spacing="1" fill="#667085">EMAIL</text>
+    <text x="510" y="417" font-size="16" fill="#101828">contact.bagmati@gmail.com</text>
+    <text x="510" y="441" font-size="16" fill="#101828">satyendra@bagmati.co.in</text>
+
+    <circle cx="474" cy="500" r="16" fill="#e6defe"/>
+    <text x="468" y="506" font-size="17" font-weight="700" fill="#5e48a6">⌖</text>
+    <text x="510" y="495" font-size="12" font-weight="700" letter-spacing="1" fill="#667085">LOCATION</text>
+    <text x="510" y="518" font-size="17" fill="#101828">Pune, Maharashtra</text>
+  </g>
+</svg>

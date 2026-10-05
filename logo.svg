@@ -1,1 +1,27 @@
-﻿@{data=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9ImJhZ21hdGlMb2dvVGl0bGUiPg0KICA8dGl0bGUgaWQ9ImJhZ21hdGlMb2dvVGl0bGUiPkJhZ21hdGkgcml2ZXIgc3VwcGx5IGxvZ288L3RpdGxlPg0KICA8ZGVmcz4NCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJyYW5kIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4NCiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxNTJkNGYiLz4NCiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzI0NDk3NiIvPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogICAgPGxpbmVhckdyYWRpZW50IGlkPSJyaXZlciIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYjhkY2ZmIi8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM1ZWEzZTYiLz4NCiAgICA8L2xpbmVhckdyYWRpZW50Pg0KICA8L2RlZnM+DQogIDxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiByeD0iNDIiIGZpbGw9InVybCgjYnJhbmQpIi8+DQoNCiAgPCEtLSBGbG93aW5nIHJpdmVyOiB0aGUgQmFnbWF0aSBtb3ZpbmcgZXNzZW50aWFsIHN1cHBsaWVzIGZvcndhcmQgLS0+DQogIDxwYXRoIGQ9Ik00NCAzOGM0NCAxNiA3MCAzNSA3MCA2MSAwIDI3LTMwIDM5LTU4IDYzIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjcml2ZXIpIiBzdHJva2Utd2lkdGg9IjE2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4NCiAgPHBhdGggZD0iTTkxIDM5YzM5IDE5IDYyIDM3IDYyIDYwIDAgMTgtMTQgMjktMzMgNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9Ii4zMiIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4NCg0KICA8IS0tIFRocmVlIHN1cHBseSB1bml0cyBjYXJyaWVkIGFsb25nIHRoZSByaXZlciAtLT4NCiAgPHJlY3QgeD0iMTE3IiB5PSI0MiIgd2lkdGg9IjIzIiBoZWlnaHQ9IjIzIiByeD0iNSIgZmlsbD0iI2ZmYjM0YSIvPg0KICA8cmVjdCB4PSIxMzkiIHk9IjY5IiB3aWR0aD0iMjMiIGhlaWdodD0iMjMiIHJ4PSI1IiBmaWxsPSIjZmZkMTdmIi8+DQogIDxyZWN0IHg9IjEyMCIgeT0iOTgiIHdpZHRoPSIyMyIgaGVpZ2h0PSIyMyIgcng9IjUiIGZpbGw9IiNmZmIzNGEiLz4NCiAgPHBhdGggZD0iTTEyOC41IDQydjIzTTE1MC41IDY5djIzTTEzMS41IDk4djIzIiBzdHJva2U9IiMxNTJkNGYiIHN0cm9rZS1vcGFjaXR5PSIuMjUiIHN0cm9rZS13aWR0aD0iMiIvPg0KDQogIDxjaXJjbGUgY3g9IjU1IiBjeT0iMTUzIiByPSI1IiBmaWxsPSIjZmZiMzRhIi8+DQogIDxjaXJjbGUgY3g9Ijc0IiBjeT0iMTQyIiByPSIzIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuNTUiLz4NCjwvc3ZnPg0K}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-labelledby="bagmatiLogoTitle">
+  <title id="bagmatiLogoTitle">Bagmati river supply logo</title>
+  <defs>
+    <linearGradient id="brand" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#152d4f"/>
+      <stop offset="100%" stop-color="#244976"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b8dcff"/>
+      <stop offset="100%" stop-color="#5ea3e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="42" fill="url(#brand)"/>
+
+  <!-- Flowing river: the Bagmati moving essential supplies forward -->
+  <path d="M44 38c44 16 70 35 70 61 0 27-30 39-58 63" fill="none" stroke="url(#river)" stroke-width="16" stroke-linecap="round"/>
+  <path d="M91 39c39 19 62 37 62 60 0 18-14 29-33 40" fill="none" stroke="#ffffff" stroke-opacity=".32" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Three supply units carried along the river -->
+  <rect x="117" y="42" width="23" height="23" rx="5" fill="#ffb34a"/>
+  <rect x="139" y="69" width="23" height="23" rx="5" fill="#ffd17f"/>
+  <rect x="120" y="98" width="23" height="23" rx="5" fill="#ffb34a"/>
+  <path d="M128.5 42v23M150.5 69v23M131.5 98v23" stroke="#152d4f" stroke-opacity=".25" stroke-width="2"/>
+
+  <circle cx="55" cy="153" r="5" fill="#ffb34a"/>
+  <circle cx="74" cy="142" r="3" fill="#ffffff" opacity=".55"/>
+</svg>
